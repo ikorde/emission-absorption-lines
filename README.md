@@ -1,5 +1,7 @@
 # emission-absorption-lines
-This python code creates a pipeline to download spectra, create a Pandas database from them, and calculate various numerical values that aid in galaxy formation research. 
+This python code creates a pipeline to download spectra, create a Pandas database from them, and calculate various numerical values that aid in galaxy formation research. It also generates useful visualizations to compare and quanitfy results.
+
+Spectra used in this example: https://irsa.ipac.caltech.edu/data/COSMOS/tables/spectra/deimos_redshift_linksIRSA.tbl
 
 ## Run 
 Change paths as necessary. <br/>
