@@ -6,7 +6,7 @@ Spectra used in this example: https://irsa.ipac.caltech.edu/data/COSMOS/overview
 ## Run 
 Change paths as necessary. <br/>
 
-<code> python download_spectra.py </code>
-<code> python gen_spectra.py </code>
-<code> python main.py </code>
-<code> python gen_graphs.py </code>
+<code> python download_spectra.py </code> <br/>
+<code> python gen_spectra.py </code> <br/>
+<code> python main.py </code> <br/>
+<code> python gen_graphs.py </code> <br/>
